@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./42.svg">
-<img src="./42.svg" height="10"/></h1>
+<img src="./42.svg" height="40" color=white/></h1>
