@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <img src="./42.svg">
+<img src="./42.svg" height="10"/></h1>
