@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./42.svg" height="60" class="filter-white"/></h1>
+<img src="./42.svg" height="60"/></h1>
