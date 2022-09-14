@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./42.svg" height="60"/></h1>     <img src="./c.svg" height="50"/></h1>     <img src="./cplusplus.svg" height="50"/></h1>
+<img src="./42.svg" height="60"/></h1>
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
